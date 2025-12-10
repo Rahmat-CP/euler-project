@@ -1,0 +1,20 @@
+{
+    "name": "src",
+    "parent": "default",
+    "path": "D:/projects/src/github/rahmat-cp/euler-project/src",
+    "link": "https://projecteuler.net",
+    "detail": "",
+    "repo": "",
+    "problems": [
+        {
+            "letter": "p001",
+            "name": "",
+            "status": "null"
+        },
+        {
+            "letter": "p000",
+            "name": "",
+            "status": "null"
+        }
+    ]
+}
